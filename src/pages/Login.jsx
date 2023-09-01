@@ -1,6 +1,5 @@
 import { Link } from "react-router-dom";
 import "../index.css";
-import "./style.css";
 function Login() {
   return (
     <div className="flex flex-col md:flex-row justify-center items-center bg-[#272727]">
